@@ -1,0 +1,16 @@
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica_7.Form1.resources
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.csproj.GenerateResource.cache
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.AssemblyInfoInputs.cache
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.AssemblyInfo.cs
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.csproj.CoreCompileInputs.cache
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\bin\Debug\net8.0-windows\Practica 7.exe
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\bin\Debug\net8.0-windows\Practica 7.deps.json
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\bin\Debug\net8.0-windows\Practica 7.runtimeconfig.json
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\bin\Debug\net8.0-windows\Practica 7.dll
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\bin\Debug\net8.0-windows\Practica 7.pdb
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.dll
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\refint\Practica 7.dll
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.pdb
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\Practica 7.genruntimeconfig.cache
+C:\Users\mkaaa\Documents\visual practicas\Practica 7\obj\Debug\net8.0-windows\ref\Practica 7.dll
